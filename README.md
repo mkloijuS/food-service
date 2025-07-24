@@ -35,7 +35,7 @@ Online Food Ordering System in PHP
 
 ### Admin Login Info Details
 
-Email : ccbd 
+Email : ccbd <br>
 password:abcd
 
 ## Frontend Preview
